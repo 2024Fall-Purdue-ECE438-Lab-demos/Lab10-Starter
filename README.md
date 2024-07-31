@@ -1,4 +1,4 @@
-# Lab 10a: Image Processing (Week 1)
+# Lab 10: Image Processing (Week 1)
 
 ## Getting Started
 
